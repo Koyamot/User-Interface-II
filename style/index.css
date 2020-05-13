@@ -1,1 +1,8 @@
 /* Add CSS styling here */
+img {
+    height: 200px;
+}
+
+.about img {
+    height: 100%;
+}
